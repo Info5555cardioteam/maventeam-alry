@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://maventeam44.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Maven Clinic Team 44"
 theme = "casper"
